@@ -17,4 +17,4 @@ Find the manually annotated data in the `Data` folder
 * Find the keyword process code in `keywordBasedClassification.py` file
 * Find the keyword process code in `zeroShotClassification.py` file
 ### Jupyter Notebooks
-* Find the BERT fine-tune process notebook [here]([https://platform.openai.com/account/api-keys](https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)
+* Find the BERT fine-tune process notebook [here](https://platform.openai.com/account/api-keys](https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)
