@@ -9,3 +9,12 @@ We defined the labels as mild sexuality, intense sexuality; full nudity, partial
 
 ### Text Classification Model
 We used the manually annotated data for fine-tuning the BERT model. Following are the results of fine-tuning for different prompt categories.
+
+#### Data
+Find the manually annotated data in the `Data` folder
+
+### Code
+* Find the keyword process code in `keywordBasedClassification.py` file
+* Find the keyword process code in `zeroShotClassification.py` file
+### Jupyter Notebooks
+* Find the BERT fine-tune process notebook [here]([https://platform.openai.com/account/api-keys](https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)
