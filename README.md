@@ -23,12 +23,12 @@ Find the manually annotated data in the `Data` folder
 If you find this code useful in your research, please consider citing it as: """ If you use this code in your research, please cite it as:
 ```
 @misc{YourGitHubUsername/YourRepoName,
-  author = {Mayur Akewar, Dr. Rashmi Welekar},
-  title = {ImageDatasetAnalysis},
+  author = {Mayur Akewar, Prof. Praful Pardhi},
+  title = {PromptsContentModeration },
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/akewarmayur/ImageDatasetAnalysis}},
+  howpublished = {\url{https://github.com/akewarmayur/PromptsContentModeration}},
 }
 ```
 
