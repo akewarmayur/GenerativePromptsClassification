@@ -22,7 +22,7 @@ Find the manually annotated data in the `Data` folder
 ### Citation
 If you find this code useful in your research, please consider citing it as:
 ```
-@misc{YourGitHubUsername/YourRepoName,
+@misc{akewarmayur/PromptsContentModeration,
   author = {Mayur Akewar, Prof. Praful Pardhi},
   title = {PromptsContentModeration },
   year = {2023},
