@@ -18,3 +18,17 @@ Find the manually annotated data in the `Data` folder
 * Find the keyword process code in `zeroShotClassification.py` file
 ### Jupyter Notebooks
 * Find the BERT fine-tune process notebook [here](https://platform.openai.com/account/api-keys](https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)https://github.com/akewarmayur/PromptsContentModeration/blob/main/notebooks/BertFineTune.ipynb)
+
+### Citation
+If you find this code useful in your research, please consider citing it as: """ If you use this code in your research, please cite it as:
+```
+@misc{YourGitHubUsername/YourRepoName,
+  author = {Mayur Akewar, Dr. Rashmi Welekar},
+  title = {ImageDatasetAnalysis},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/akewarmayur/ImageDatasetAnalysis}},
+}
+```
+
