@@ -1,4 +1,5 @@
 # Content Moderation of Generative AI prompts
+### Implementation of the paper "Content Moderation of Generative AI Prompts, Springer’s SN Computer Science, 2023"
 Here, we provide a framework for analyzing the text prompts based on the content moderation taxonomy. We define the taxonomy for content moderation and explore different language models to classify the prompt as per the moderation taxonomy. The proposed moderation taxonomy can be used to analyze user’s behavior and misuse of any generative AI application. 
 
 ### Keyword Identification 
